@@ -1,0 +1,14 @@
+Ejercicios con Switch:
+
+
+1.- Ingresar 2 números y luego un carácter indicando la operación a realizar (+,-,*,/) y reportar el resultado de la operación.
+
+2.- Elaborar un programa que realice la opción seleccionada de acuerdo a lo siguiente:
+
+a.- Área del triángulo (Solicitar base y altura)
+
+b.- Área del Cuadrado (Solicitar lado)
+
+c.- Área del Círculo (Solicitar radio)
+
+d.- Área del Rectángulo (Solicitar base y altura)|
