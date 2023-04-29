@@ -1,4 +1,4 @@
-package mx.com.tech.bedetux.sentenciasdecontrol.EjercicioSwitch;
+package mx.com.tech.bedutux.sentenciasdecontrol.EjercicioSwitch;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package mx.com.tech.bedetux.sentenciasdecontrol;
+package mx.com.tech.bedutux.sentenciasdecontrol;
 
 public class ifControl {
     public static void main(String[] args) {

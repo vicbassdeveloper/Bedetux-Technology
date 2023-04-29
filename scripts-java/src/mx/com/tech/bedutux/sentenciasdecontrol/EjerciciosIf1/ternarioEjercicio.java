@@ -1,4 +1,4 @@
-package mx.com.tech.bedetux.sentenciasdecontrol.EjerciciosIf1;
+package mx.com.tech.bedutux.sentenciasdecontrol.EjerciciosIf1;
 
 import java.util.Scanner;
 

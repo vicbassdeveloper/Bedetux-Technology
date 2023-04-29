@@ -1,4 +1,4 @@
-package mx.com.tech.bedetux.ciclos;
+package mx.com.tech.bedutux.ciclos;
 
 /*
 Realizar el factorial de un numero dado (Ingresado vía teclado)

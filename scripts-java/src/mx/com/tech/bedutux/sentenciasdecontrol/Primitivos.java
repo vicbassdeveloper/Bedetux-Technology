@@ -1,4 +1,4 @@
-package mx.com.tech.bedetux.sentenciasdecontrol;
+package mx.com.tech.bedutux.sentenciasdecontrol;
 
 // Este es un comentario de una linea
 

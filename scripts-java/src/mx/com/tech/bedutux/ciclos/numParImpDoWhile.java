@@ -1,13 +1,8 @@
-package mx.com.tech.bedetux.ciclos;
+package mx.com.tech.bedutux.ciclos;
 
 import java.util.Scanner;
 
-/*
-Realizar la discriminación de números pares e impares, (Incluir los tres ciclos vistos durante la sesión (for, while, do-while)
--Impresión de número pares del 1 al 100
--Impresión de número impares del 1 al 100
- */
-public class numParImpFor {
+public class numParImpDoWhile {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char opcion = 'y';
@@ -19,9 +14,13 @@ public class numParImpFor {
             int parImp = scanner.nextInt();
             scanner.skip("\n");
             parImp = parImp == 1 ? 0 : 1;
-            for (int i = parImp; i <= num; i += 2) {
+            int i = parImp;
+
+            do {
                 System.out.print(i + " ");
-            }
+                i += 2;
+            } while (i <= num);
+
             System.out.println("\n\nIntentar de nuevo ecribe 'y' , o 'n' para salir");
             opcion = scanner.next().toLowerCase().charAt(0);
 
