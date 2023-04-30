@@ -1,0 +1,7 @@
+-Pedir vía teclado el tamaño de un array (N posiciones)
+
+-Almacenar números enteros dentro de cada posición (generados al azar o solicitados desde teclado)
+
+-Generar un arreglo para números pares y otro para números impares (clasificar en números pares e impares el array original)
+
+-Pintar los dos arreglos especificando los números pares e impares

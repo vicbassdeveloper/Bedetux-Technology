@@ -1,0 +1,12 @@
+1 programa :
+Realizar un programa que al ingresar 3 calificaciones nos de el promedio en caso de que sea menos a 7 este este reprobado
+y en caso de que sea 7 a 10 se aprobatorio pero si se pasa la calificacion de 10 nos mande un error
+
+2 programa:
+
+Realizar un menu que al ingresar una opcion nos de la bienvenida , ingrese usuario nuevo, borrar usuario y opcion invalida
+
+3: programa
+
+Realizar un programa que al ingresar un numero nos diga el mes que le corresponde
+y en caso de que sea incorrecto el numero nos diga numero invalido
